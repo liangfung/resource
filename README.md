@@ -6,3 +6,4 @@
 3. [从Vue的第二个commit来学习数据驱动视图](https://zhuanlan.zhihu.com/p/26744423)
 4. [Data Structures With JavaScript](https://code.tutsplus.com/tutorials/data-structures-with-javascript-whats-a-data-structure--cms-23347)
 5. [JS Promise迷你书](http://liubin.org/promises-book/)
+6. [Vue.js源码学习笔记](http://jiongks.name/blog/vue-code-review/)
