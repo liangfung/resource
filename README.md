@@ -10,4 +10,4 @@
 7. [jQuery 动态添加元素的清爽写法](https://segmentfault.com/a/1190000010472801)
 8. [翻译：Javascript工作机制（一）](http://www.zcfy.cc/article/how-does-javascript-actually-work-part-1-sessionstack-blog-3965.html?t=new)
 9. [深入理解Javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
-10.[如何在你的Vue项目中集成TypeScript](https://mp.weixin.qq.com/s?__biz=MzI0ODcxNDAxNQ==&mid=2247483925&idx=1&sn=22e807bfc8bcdd4083b162cb7249660b&chksm=e99dc465deea4d739c83e841c54564524bf4dab5955075165e0af0ec5b6d8843c8923aab11e8&mpshare=1&scene=1&srcid=0729V5s9ZhptcMOQLgz61h8R#rd)
+10. [如何在你的Vue项目中集成TypeScript](https://mp.weixin.qq.com/s?__biz=MzI0ODcxNDAxNQ==&mid=2247483925&idx=1&sn=22e807bfc8bcdd4083b162cb7249660b&chksm=e99dc465deea4d739c83e841c54564524bf4dab5955075165e0af0ec5b6d8843c8923aab11e8&mpshare=1&scene=1&srcid=0729V5s9ZhptcMOQLgz61h8R#rd)
