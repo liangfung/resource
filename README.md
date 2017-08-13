@@ -8,3 +8,4 @@
 5. [JS Promise迷你书](http://liubin.org/promises-book/)
 6. [Vue.js源码学习笔记](http://jiongks.name/blog/vue-code-review/)
 7. [jQuery 动态添加元素的清爽写法](https://segmentfault.com/a/1190000010472801)
+8. [翻译：Javascript工作机制（一）](http://www.zcfy.cc/article/how-does-javascript-actually-work-part-1-sessionstack-blog-3965.html?t=new)
