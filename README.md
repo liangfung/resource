@@ -7,3 +7,4 @@
 4. [Data Structures With JavaScript](https://code.tutsplus.com/tutorials/data-structures-with-javascript-whats-a-data-structure--cms-23347)
 5. [JS Promise迷你书](http://liubin.org/promises-book/)
 6. [Vue.js源码学习笔记](http://jiongks.name/blog/vue-code-review/)
+7. [jQuery 动态添加元素的清爽写法](https://segmentfault.com/a/1190000010472801)
