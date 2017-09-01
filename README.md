@@ -11,6 +11,7 @@
 - [深入理解Javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
 - [Properties and Attributes in HTML](https://stackoverflow.com/questions/6003819/properties-and-attributes-in-html#answer-6004028)
 - [ES6 变量声明与赋值：值传递、浅拷贝与深拷贝详解](https://segmentfault.com/a/1190000010652249)
+- [【译】高阶函数：利用Filter、Map和Reduce来编写更易维护的代码](https://zhuanlan.zhihu.com/p/28835709)
 
 ## React
 - [翻译-学习 React.js 比你想象的要简单](https://juejin.im/post/599156cc6fb9a03c3a25db08)
