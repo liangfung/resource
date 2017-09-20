@@ -21,3 +21,6 @@
 - [Vue.js源码学习笔记](http://jiongks.name/blog/vue-code-review/)
 - [如何在你的Vue项目中集成TypeScript](https://mp.weixin.qq.com/s?__biz=MzI0ODcxNDAxNQ==&mid=2247483925&idx=1&sn=22e807bfc8bcdd4083b162cb7249660b&chksm=e99dc465deea4d739c83e841c54564524bf4dab5955075165e0af0ec5b6d8843c8923aab11e8&mpshare=1&scene=1&srcid=0729V5s9ZhptcMOQLgz61h8R#rd)
 - [从Vue的第二个commit来学习数据驱动视图](https://zhuanlan.zhihu.com/p/26744423)
+
+## HTTP
+- [HTTP缓存控制小结](http://imweb.io/topic/5795dcb6fb312541492eda8c)
