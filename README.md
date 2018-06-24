@@ -27,3 +27,6 @@
 
 ## 浏览器
 - [浏览器工作原理详解](http://blog.csdn.net/dangnian/article/details/50876241)
+
+## 其他
+- [JSX can do that?](https://engineering.hexacta.com/jsx-can-do-that-1b2666c23a32)
