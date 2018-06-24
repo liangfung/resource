@@ -3,7 +3,6 @@
 
 ## Javascript
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
-- [写给自学者的三篇文章，关于 this、new 和 prototype](https://zhuanlan.zhihu.com/p/26083248) 
 - [Data Structures With JavaScript](https://code.tutsplus.com/tutorials/data-structures-with-javascript-whats-a-data-structure--cms-23347)
 - [JS Promise迷你书](http://liubin.org/promises-book/) 
 - [jQuery 动态添加元素的清爽写法](https://segmentfault.com/a/1190000010472801)
@@ -16,6 +15,7 @@
 
 ## React
 - [翻译-学习 React.js 比你想象的要简单](https://juejin.im/post/599156cc6fb9a03c3a25db08)
+- [react小书](http://huziketang.mangojuice.top/books/react/)
 
 ## Vue
 - [Vue.js源码学习笔记](http://jiongks.name/blog/vue-code-review/)
@@ -28,5 +28,11 @@
 ## 浏览器
 - [浏览器工作原理详解](http://blog.csdn.net/dangnian/article/details/50876241)
 
+
 ## 其他
+### jsx
 - [JSX can do that?](https://engineering.hexacta.com/jsx-can-do-that-1b2666c23a32)
+
+### redux
+- [egghead-redux-implemetation](https://egghead.io/lessons/react-redux-the-single-immutable-state-tree)
+
