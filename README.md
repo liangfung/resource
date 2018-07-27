@@ -13,8 +13,11 @@
 - [【译】高阶函数：利用Filter、Map和Reduce来编写更易维护的代码](https://zhuanlan.zhihu.com/p/28835709)
 - [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/?utm_source=html5weekly&amp;utm_medium=email)
 
+## web api
+- [文件上传](https://cloud.tencent.com/developer/article/1004961)
+
 ## React
-- [翻译-学习 React.js 比你想象的要简单](https://juejin.im/post/599156cc6fb9a03c3a25db08)
+- [build your own react](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 - [react小书](http://huziketang.mangojuice.top/books/react/)
 
 ## Vue
@@ -28,8 +31,8 @@
 ## 浏览器
 - [浏览器工作原理详解](http://blog.csdn.net/dangnian/article/details/50876241)
 
-
 ## 其他
+
 ### jsx
 - [JSX can do that?](https://engineering.hexacta.com/jsx-can-do-that-1b2666c23a32)
 
