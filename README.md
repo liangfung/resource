@@ -2,7 +2,6 @@
 > 收集的前端和计算机知识的优质资源
 
 ## Javascript
-- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 - [Data Structures With JavaScript](https://code.tutsplus.com/tutorials/data-structures-with-javascript-whats-a-data-structure--cms-23347)
 - [JS Promise迷你书](http://liubin.org/promises-book/) 
 - [jQuery 动态添加元素的清爽写法](https://segmentfault.com/a/1190000010472801)
@@ -30,6 +29,7 @@
 - [HTTP缓存控制小结](http://imweb.io/topic/5795dcb6fb312541492eda8c)
 
 ## 浏览器
+- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 - [浏览器工作原理详解](http://blog.csdn.net/dangnian/article/details/50876241)
 
 ## 其他
