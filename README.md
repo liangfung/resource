@@ -15,6 +15,7 @@
 ## web api
 - [文件上传那些事儿](https://cloud.tencent.com/developer/article/1004961)
 - [前端本地文件操作与上传](https://cloud.tencent.com/developer/article/1004961)
+- [Using files from web applications](https://developer.mozilla.org/zh-CN/docs/Web/API/File/Using_files_from_web_applications)
 
 ## React
 - [build your own react](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
