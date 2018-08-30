@@ -4,7 +4,6 @@
 ## Javascript
 - [Data Structures With JavaScript](https://code.tutsplus.com/tutorials/data-structures-with-javascript-whats-a-data-structure--cms-23347)
 - [JS Promise迷你书](http://liubin.org/promises-book/) 
-- [jQuery 动态添加元素的清爽写法](https://segmentfault.com/a/1190000010472801)
 - [翻译：Javascript工作机制（一）](http://www.zcfy.cc/article/how-does-javascript-actually-work-part-1-sessionstack-blog-3965.html?t=new)
 - [深入理解Javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
 - [Properties and Attributes in HTML](https://stackoverflow.com/questions/6003819/properties-and-attributes-in-html#answer-6004028)
@@ -44,4 +43,7 @@
 
 ### redux
 - [egghead-redux-implemetation](https://egghead.io/lessons/react-redux-the-single-immutable-state-tree)
+
+### jq
+- [jQuery 动态添加元素的清爽写法](https://segmentfault.com/a/1190000010472801)
 
