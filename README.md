@@ -32,8 +32,12 @@
 ## 浏览器
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 - [浏览器工作原理详解](http://blog.csdn.net/dangnian/article/details/50876241)
+- [Life of a Pixel，让你更透彻知道浏览器是如何工作](https://mp.weixin.qq.com/s/87OYpou4ynpvYlcExEO40w)
 
 ## 其他
+
+### 同构
+- [IMVC（同构 MVC）的前端实践](https://mp.weixin.qq.com/s/Y7-pJqEutxWMnTRyHqhYFA)
 
 ### jsx
 - [JSX can do that?](https://engineering.hexacta.com/jsx-can-do-that-1b2666c23a32)
